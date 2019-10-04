@@ -243,7 +243,7 @@ void customCode(uint16_t c){
 		case 0x161:			//F1 
     wordKey("fmented@gmail.com");
     pressKey(TAB);
-    wordKey("SATU081996");
+    wordKey("password");
     pressKey(ENTER);
 		break;
 		case 0x162:			//F2 
